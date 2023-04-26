@@ -1,11 +1,10 @@
 package gitTest;
 
-public class TestGit {
+public class TestGit2 {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("welcome to github");
-		
+		System.out.println("the second branch");
 	}
 
 }
